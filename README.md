@@ -1,6 +1,7 @@
 # Методы и средства программной инженерии (элективный модуль по группе направлений, Университет ИТМО, 4 семестр)
 
 * 7 лекций ([youtube](https://www.youtube.com/playlist?list=PLBWafxh1dFuykoWaAt7HiMOGgWXRvAN5V))
+  1. Жизненный цикл ПО ([конспект](lecture-notes/lecture-1/notes.md))
 * 4 лабораторных работы ([генератор вариантов](https://se.ifmo.ru/courses/software-engineering-basics))
 * экзамен ([вопросы](exam-questions.md))
 
